@@ -1,0 +1,10 @@
+.video__wrapper_type_three-videos {
+  width: 192%;
+}
+
+@media screen and (max-width: 768px) {
+  .video__wrapper_type_three-videos {
+    align-self: flex-start;
+    margin: 0 -6.6%;
+  }
+}

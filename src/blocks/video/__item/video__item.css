@@ -1,0 +1,6 @@
+.video__item {
+  margin: 38px 0 0;
+  aspect-ratio: 16 / 9;
+  border: none;
+  width: 100%;
+};

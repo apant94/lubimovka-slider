@@ -1,0 +1,10 @@
+.video__wrapper_type_two-videos {
+  width: 126%;
+}
+
+@media screen and (max-width: 768px) {
+  .video__wrapper_type_two-videos {
+    align-self: flex-start;
+    margin: 0 -6.6%;
+  }
+}

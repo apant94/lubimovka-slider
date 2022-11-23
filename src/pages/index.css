@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__title/_type/video__title_type_more-videos.css);
+@import url(../blocks/video/__item/video__item.css);
+@import url(../blocks/video/__item/__type/video__item_type_two-videos.css);
+@import url(../blocks/video/__item/__type/video__item_type_three-videos.css);
+@import url(../blocks/video/__description/video__description.css);
+@import url(../blocks/video/__wrapper/video__wrapper.css);
+@import url(../blocks/video/__wrapper/_type/video__wrapper_type_two-videos.css);
+@import url(../blocks/video/__wrapper/_type/video__wrapper_type_three-videos.css);
