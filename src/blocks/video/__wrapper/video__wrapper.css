@@ -1,4 +1,9 @@
 .video__wrapper {
-  display: flex;
-  justify-content: space-between;
+  margin: 45px auto 0;
+}
+
+@media screen and (max-width: 768px) {
+  .video__wrapper {
+    margin: 32px auto 0;
+  }
 }

@@ -1,6 +1,9 @@
 .video__item {
-  margin: 38px 0 0;
-  aspect-ratio: 16 / 9;
-  border: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   width: 100%;
-};
+  height: 100%;
+}

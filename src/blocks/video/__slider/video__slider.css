@@ -1,0 +1,5 @@
+.video__slider {
+  display: grid;
+  gap: 30px;
+  padding: 0;
+}

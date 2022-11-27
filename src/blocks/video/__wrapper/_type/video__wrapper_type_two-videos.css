@@ -6,5 +6,6 @@
   .video__wrapper_type_two-videos {
     align-self: flex-start;
     margin: 0 -6.6%;
+    width: 172%;
   }
 }
